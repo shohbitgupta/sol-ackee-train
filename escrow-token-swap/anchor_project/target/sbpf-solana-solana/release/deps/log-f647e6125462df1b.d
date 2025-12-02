@@ -1,0 +1,10 @@
+/Users/sshobhitggupta/Documents/ackee-school-of-solana/program-shohbitgupta/anchor_project/target/sbpf-solana-solana/release/deps/liblog-f647e6125462df1b.rmeta: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/lib.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/macros.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/serde.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/__private_api.rs
+
+/Users/sshobhitggupta/Documents/ackee-school-of-solana/program-shohbitgupta/anchor_project/target/sbpf-solana-solana/release/deps/liblog-f647e6125462df1b.rlib: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/lib.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/macros.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/serde.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/__private_api.rs
+
+/Users/sshobhitggupta/Documents/ackee-school-of-solana/program-shohbitgupta/anchor_project/target/sbpf-solana-solana/release/deps/log-f647e6125462df1b.d: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/lib.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/macros.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/serde.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/__private_api.rs
+
+/Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/lib.rs:
+/Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/macros.rs:
+/Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/serde.rs:
+/Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.28/src/__private_api.rs:

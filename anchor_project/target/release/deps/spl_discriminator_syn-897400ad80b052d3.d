@@ -1,9 +1,0 @@
-/Users/sshobhitggupta/Documents/ackee-school-of-solana/program-shohbitgupta/anchor_project/target/release/deps/libspl_discriminator_syn-897400ad80b052d3.rmeta: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/lib.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/error.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/parser.rs
-
-/Users/sshobhitggupta/Documents/ackee-school-of-solana/program-shohbitgupta/anchor_project/target/release/deps/libspl_discriminator_syn-897400ad80b052d3.rlib: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/lib.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/error.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/parser.rs
-
-/Users/sshobhitggupta/Documents/ackee-school-of-solana/program-shohbitgupta/anchor_project/target/release/deps/spl_discriminator_syn-897400ad80b052d3.d: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/lib.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/error.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/parser.rs
-
-/Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/lib.rs:
-/Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/error.rs:
-/Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.2.1/src/parser.rs:
