@@ -1,0 +1,7 @@
+/Users/sshobhitggupta/Documents/ackee-school-of-solana/task3-shohbitgupta/target/debug/deps/equivalent-7b3feba868c8009a.d: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/equivalent-1.0.2/src/lib.rs
+
+/Users/sshobhitggupta/Documents/ackee-school-of-solana/task3-shohbitgupta/target/debug/deps/libequivalent-7b3feba868c8009a.rlib: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/equivalent-1.0.2/src/lib.rs
+
+/Users/sshobhitggupta/Documents/ackee-school-of-solana/task3-shohbitgupta/target/debug/deps/libequivalent-7b3feba868c8009a.rmeta: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/equivalent-1.0.2/src/lib.rs
+
+/Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/equivalent-1.0.2/src/lib.rs:

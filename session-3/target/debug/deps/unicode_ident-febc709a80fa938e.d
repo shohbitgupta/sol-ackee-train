@@ -1,0 +1,8 @@
+/Users/sshobhitggupta/Documents/ackee-school-of-solana/task3-shohbitgupta/target/debug/deps/unicode_ident-febc709a80fa938e.d: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.20/src/lib.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.20/src/tables.rs
+
+/Users/sshobhitggupta/Documents/ackee-school-of-solana/task3-shohbitgupta/target/debug/deps/libunicode_ident-febc709a80fa938e.rlib: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.20/src/lib.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.20/src/tables.rs
+
+/Users/sshobhitggupta/Documents/ackee-school-of-solana/task3-shohbitgupta/target/debug/deps/libunicode_ident-febc709a80fa938e.rmeta: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.20/src/lib.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.20/src/tables.rs
+
+/Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.20/src/lib.rs:
+/Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.20/src/tables.rs:

@@ -1,0 +1,8 @@
+/Users/sshobhitggupta/Documents/ackee-school-of-solana/task3-shohbitgupta/target/debug/deps/solana_account_info-7cfa44c659663934.d: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-account-info-2.3.0/src/lib.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-account-info-2.3.0/src/debug_account_data.rs
+
+/Users/sshobhitggupta/Documents/ackee-school-of-solana/task3-shohbitgupta/target/debug/deps/libsolana_account_info-7cfa44c659663934.rlib: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-account-info-2.3.0/src/lib.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-account-info-2.3.0/src/debug_account_data.rs
+
+/Users/sshobhitggupta/Documents/ackee-school-of-solana/task3-shohbitgupta/target/debug/deps/libsolana_account_info-7cfa44c659663934.rmeta: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-account-info-2.3.0/src/lib.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-account-info-2.3.0/src/debug_account_data.rs
+
+/Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-account-info-2.3.0/src/lib.rs:
+/Users/sshobhitggupta/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-account-info-2.3.0/src/debug_account_data.rs:
