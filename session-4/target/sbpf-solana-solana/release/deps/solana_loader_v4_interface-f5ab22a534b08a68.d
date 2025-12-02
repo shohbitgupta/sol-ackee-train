@@ -1,0 +1,9 @@
+/Users/sshobhitggupta/Documents/ackee-school-of-solana/task4-shohbitgupta/target/sbpf-solana-solana/release/deps/libsolana_loader_v4_interface-f5ab22a534b08a68.rmeta: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs
+
+/Users/sshobhitggupta/Documents/ackee-school-of-solana/task4-shohbitgupta/target/sbpf-solana-solana/release/deps/libsolana_loader_v4_interface-f5ab22a534b08a68.rlib: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs
+
+/Users/sshobhitggupta/Documents/ackee-school-of-solana/task4-shohbitgupta/target/sbpf-solana-solana/release/deps/solana_loader_v4_interface-f5ab22a534b08a68.d: /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs /Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs
+
+/Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs:
+/Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs:
+/Users/sshobhitggupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs:
